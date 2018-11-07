@@ -851,6 +851,16 @@ h6,
   color: #ffffff;
   text-align: left;
 }
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1g .mbr-section-subtitle {
+  color: #ffffff;
+}
 #features3-17 H4 {
   color: #ffffff;
 }
@@ -858,6 +868,44 @@ h6,
   color: #ffffff;
 }
 #features3-17 P {
+  color: #ffffff;
+}
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1j .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1j .mbr-section-subtitle {
+  color: #ffffff;
+}
+#features3-1h H4 {
+  color: #ffffff;
+}
+#features3-1h H5 {
+  color: #ffffff;
+}
+#features3-1h P {
+  color: #ffffff;
+}
+#header3-1k .mbr-section-title,
+#header3-1k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1k .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1k .mbr-section-subtitle {
+  color: #ffffff;
+}
+#features3-1i H4 {
+  color: #ffffff;
+}
+#features3-1i H5 {
+  color: #ffffff;
+}
+#features3-1i P {
   color: #ffffff;
 }
 #contacts3-15 .btn {
