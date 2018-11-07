@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1310",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2578,7 +2578,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "1",
             "columns": 4,
@@ -2597,7 +2597,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/color-logo-400x-1-400x104.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2655,7 +2655,7 @@
               "active": true
             }
           },
-          "title1": "SPONSOR",
+          "title1": "BE A MAVERICK",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "SPONSOR",
@@ -2673,7 +2673,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://maverickbyloganpaul.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LNIK</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
