@@ -927,3 +927,87 @@ h6,
 #features3-1b P {
   color: #ffffff;
 }
+
+#ext_menu-1c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1c .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1c .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1c .close-icon::before,
+#ext_menu-1c .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1c .link,
+#ext_menu-1c .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1c .link {
+  font-size: 0.95rem;
+}
+#ext_menu-1c .dropdown-item,
+#ext_menu-1c .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-1c .link:hover,
+#ext_menu-1c .dropdown-item:hover,
+#ext_menu-1c .link:focus,
+#ext_menu-1c .dropdown-item:focus {
+  color: #ff0000;
+}
+#ext_menu-1c .link[aria-expanded="true"],
+#ext_menu-1c .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1c .nav-dropdown-sm .link:focus,
+#ext_menu-1c .nav-dropdown-sm .link:hover,
+#ext_menu-1c .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1c .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-1c .navbar,
+#ext_menu-1c .nav-dropdown-sm,
+#ext_menu-1c .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1c .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-1c .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1c .bg-color.transparent.opened .link:hover,
+#ext_menu-1c .bg-color.transparent.opened .link:focus {
+  color: #ff0000;
+}
+#ext_menu-1c .link[aria-expanded="true"],
+#ext_menu-1c .dropdown-item[aria-expanded="true"] {
+  color: #ff0000!important;
+}
+#ext_menu-1c A {
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f .mbr-section-title {
+  color: #ffffff;
+}
+#header3-1f .mbr-section-subtitle {
+  color: #ffffff;
+}
+#features3-1e H4 {
+  color: #ffffff;
+}
+#features3-1e H5 {
+  color: #ffffff;
+}
+#features3-1e P {
+  color: #ffffff;
+}
