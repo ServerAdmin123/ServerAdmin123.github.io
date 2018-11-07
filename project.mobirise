@@ -32,7 +32,10 @@
     "siteFonts": [],
     "uniqCompNum": 52,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "snow": ""
   },
   "pages": {
     "index.html": {
