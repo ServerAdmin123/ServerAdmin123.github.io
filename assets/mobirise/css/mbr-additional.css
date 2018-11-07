@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -477,7 +478,7 @@ h6,
 #slider-1 P {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
-  text-align: center;
+  text-align: left;
 }
 #slider-1 H2 {
   text-align: left;
@@ -515,6 +516,10 @@ h6,
 #features3-a H5 {
   color: #ffffff;
 }
+#contacts3-e .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
@@ -595,6 +600,10 @@ h6,
 #features3-r H4 {
   color: #ffffff;
 }
+#contacts3-p .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
@@ -675,6 +684,10 @@ h6,
 #features3-u H5 {
   color: #ffffff;
 }
+#contacts3-t .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #header6-13 .mbr-section-title {
   color: #28262b;
@@ -759,6 +772,10 @@ h6,
 #ext_menu-10 A {
   font-family: 'Montserrat', sans-serif;
 }
+#contacts3-11 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #ext_menu-14 .hide-buttons .nav-btn {
   display: none !important;
@@ -843,6 +860,10 @@ h6,
 #features3-17 P {
   color: #ffffff;
 }
+#contacts3-15 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #ext_menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -927,6 +948,10 @@ h6,
 #features3-1b P {
   color: #ffffff;
 }
+#contacts3-19 .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
 
 #ext_menu-1c .hide-buttons .nav-btn {
   display: none !important;
@@ -1010,4 +1035,7 @@ h6,
 }
 #features3-1e P {
   color: #ffffff;
+}
+#contacts3-1d .btn {
+  font-family: 'Montserrat', sans-serif;
 }

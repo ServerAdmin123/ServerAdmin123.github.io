@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1310",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Lifted Gaming",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -161,7 +161,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SPONSORS</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">SPONSORS</a>",
                 "overlayOpacity": "0"
               },
               {
@@ -176,7 +176,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
@@ -190,7 +190,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MERCH STORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">STREAMERS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MERCH STORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREAMERS</a>"
               }
             ]
           },
@@ -205,7 +205,7 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "16px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "H2": {
               "text-align": "left"
@@ -490,17 +490,17 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "addisonbirt@hotmail.co.uk",
+            "action": "support@liftedgaming.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -530,14 +530,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-e"
+          "_anchor": "contacts3-e",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page1.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
-        "title": "Merch",
+        "title": "Lifted Gaming - Merch",
         "order": 6
       },
       "components": [
@@ -872,14 +878,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -912,14 +918,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-p"
+          "_anchor": "contacts3-p",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page2.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Upcoming Events",
+        "title": "Lifted Gaming - Upcoming Events",
         "order": 5
       },
       "components": [
@@ -1255,14 +1267,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1295,14 +1307,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-t"
+          "_anchor": "contacts3-t",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page3.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
-        "title": "Z1 BATTLE ROYAL TEAM",
+        "title": "Lifted Gaming - Z1 BATTLE ROYAL TEAM",
         "order": 4
       },
       "components": [
@@ -1360,7 +1378,7 @@
           },
           "title": "<p>WELCOME TO THE&nbsp;<span style=\"font-size: 3rem;\">Z1 BATTLE ROYAL TEAM.</span></p>",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page3.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1392,7 +1410,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1403,7 +1421,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1414,7 +1432,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1425,7 +1443,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1451,17 +1469,17 @@
             }
           },
           "title1": "PLAYER",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
           "title2": "PLAYER",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
           "title3": "PLAYER",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
           "title4": "PLAYER",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1638,14 +1656,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1678,14 +1696,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-11"
+          "_anchor": "contacts3-11",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page4.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
-        "title": "FORTNITE BATTLE ROYAL TEAM",
+        "title": "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM",
         "order": 3
       },
       "components": [
@@ -1834,7 +1858,7 @@
           },
           "title": "<p>WELCOME TO THE FORTNITE BATTLE ROYAL TEAM.</p>",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page4.html#features3-17\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1866,7 +1890,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1877,7 +1901,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1888,7 +1912,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1899,7 +1923,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1925,17 +1949,17 @@
             }
           },
           "title1": "PLAYER",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
           "title2": "PLAYER",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
           "title3": "PLAYER",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
           "title4": "PLAYER",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2021,14 +2045,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2061,14 +2085,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-15"
+          "_anchor": "contacts3-15",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page5.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "ROCKET LEAGUE TEAM",
+        "title": "Lifted Gaming - ROCKET LEAGUE TEAM",
         "order": 2
       },
       "components": [
@@ -2216,8 +2246,8 @@
             }
           },
           "title": "<p>WELCOME TO THE ROCKET LEAGUE TEAM.</p>",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One, macOS, Linux, and Nintendo Switch being released later on.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page5.html#features3-1b\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2249,7 +2279,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2260,7 +2290,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2271,7 +2301,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2282,7 +2312,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/god-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2308,17 +2338,17 @@
             }
           },
           "title1": "PLAYER",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
           "title2": "PLAYER",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
           "title3": "PLAYER",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
           "title4": "PLAYER",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -2404,14 +2434,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2444,14 +2474,20 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-19"
+          "_anchor": "contacts3-19",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     },
     "page6.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Sponsors",
+        "title": "Lifted Gaming - Sponsors",
         "order": 1
       },
       "components": [
@@ -2578,14 +2614,14 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "0",
+            "showButtons": false,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2597,7 +2633,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/color-logo-400x-1-400x104.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2608,7 +2644,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2619,7 +2655,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2630,7 +2666,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-12-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2655,7 +2691,7 @@
               "active": true
             }
           },
-          "title1": "BE A MAVERICK",
+          "title1": "SPONSOR",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "SPONSOR",
@@ -2673,7 +2709,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://maverickbyloganpaul.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LNIK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://maverickbyloganpaul.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2752,14 +2788,14 @@
               "family": "et-line"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
-          "text3": "1234 Street Name, City AA 99999",
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2792,7 +2828,13 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1d"
+          "_anchor": "contacts3-1d",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
         }
       ]
     }
