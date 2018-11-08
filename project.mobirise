@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#ff0000",
+        "primaryColor": "#000000",
         "secondaryColor": "#ffffff",
         "successColor": "#ffffff",
         "infoColor": "#ffffff",
@@ -24,15 +24,13 @@
         "#383838",
         "#2e2e2e",
         "#ff0000",
-        "#8c8c8c",
-        "#0040ff",
-        "#04fd0b"
+        "#8c8c8c"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 57,
+    "uniqCompNum": 59,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -223,10 +221,10 @@
           },
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/32412-1920x1080.png",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#000000",
             "overlay": false,
@@ -236,10 +234,10 @@
           "_tags": [
             "Theme"
           ],
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "text": "CHECK OUT OUR SOCIALS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-primary\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitch mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 22px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-4"
+          "_anchor": "social-buttons4-1m"
         },
         {
           "_styles": {
@@ -467,11 +465,12 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
             }
           },
           "media2": {
@@ -495,11 +494,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "support@liftedgaming.com",
@@ -542,11 +541,11 @@
         }
       ]
     },
-    "page1.html": {
+    "Lifted Gaming - Sponsor Us.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "Lifted Gaming - Merch",
-        "order": 6
+        "meta_descr": "",
+        "title": "Lifted Gaming - Sponsor Us",
+        "order": 1
       },
       "components": [
         {
@@ -638,189 +637,62 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-o"
+          "_anchor": "ext_menu-1j"
         },
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-text": {
-              "color": "#ffffff"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "70",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-recovered-850x576.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<br>THE MERCH",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY THE MERCH</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-q"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10282475-web1-esports-032218cs-14-1050x733.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SPONSER SHIP FOURM",
+          "subtitle": "Want to become a sponser for our team just drop us an email bellow.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "support@liftedgaming.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "COMING SOON",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "COMING SOON",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "COMING SOON",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "COMING SOON",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-r",
+          "_name": "form1",
+          "_anchor": "form1-1l",
           "_styles": {
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#ffffff"
+            ".form-control-label": {
+              "color": "#232323"
             }
           }
         },
@@ -857,9 +729,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -883,11 +756,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -920,21 +793,21 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-p",
           "_styles": {
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
+          },
+          "_anchor": "contacts3-1k"
         }
       ]
     },
-    "page2.html": {
+    "Lifted Gaming - Sponsors.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Lifted Gaming - Upcoming Events",
-        "order": 5
+        "meta_descr": "",
+        "title": "Lifted Gaming - Sponsors",
+        "order": 2
       },
       "components": [
         {
@@ -1026,80 +899,49 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-s"
+          "_anchor": "ext_menu-1c"
         },
         {
-          "_inherit": "header2",
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
             ".mbr-section-title": {
               "color": "#ffffff"
             },
-            ".mbr-section-text": {
+            ".mbr-section-subtitle": {
               "color": "#ffffff"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "showArrow": true,
-            "imageSize": "70",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/32412-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "showMeta": false,
+            "paddingTop": "6",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=UjTmLEizPBw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "UPCOMING EVENTS.",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page2.html#features3-u\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "OUR SPONSORS",
+          "meta": "Founded in 2018",
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-w"
+          "_name": "header3",
+          "_anchor": "header3-1f"
         },
         {
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": false,
+            "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1110,50 +952,46 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-12-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": true
+              "title": ""
             }
           },
           "media5": {
@@ -1172,16 +1010,16 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "SPONSOR",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "title2": "SPONSOR",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "title3": "SPONSOR",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "title4": "SPONSOR",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -1190,7 +1028,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://maverickbyloganpaul.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1200,18 +1038,56 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-u",
           "_styles": {
             "H4": {
               "color": "#ffffff"
             },
-            "P": {
-              "color": "#ffffff"
-            },
             "H5": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "features3-1e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Want to help us grow? Sponsor us!",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-1i"
         },
         {
           "_params": {
@@ -1246,9 +1122,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1272,11 +1149,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1309,7 +1186,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-t",
+          "_anchor": "contacts3-1d",
           "_styles": {
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -1319,13 +1196,104 @@
         }
       ]
     },
-    "page3.html": {
+    "Lifted Gaming - ROCKET LEAGUE TEAM.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
-        "title": "Lifted Gaming - Z1 BATTLE ROYAL TEAM",
-        "order": 4
+        "meta_descr": "",
+        "title": "Lifted Gaming - ROCKET LEAGUE TEAM",
+        "order": 3
       },
       "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-18"
+        },
         {
           "_inherit": "header2",
           "_styles": {
@@ -1367,7 +1335,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MMUJqRnnqng",
+              "src": "https://www.youtube.com/watch?v=BBAlsertef4",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1378,14 +1346,14 @@
               "size": 250
             }
           },
-          "title": "<p>WELCOME TO THE&nbsp;<span style=\"font-size: 3rem;\">Z1 BATTLE ROYAL TEAM.</span></p>",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page3.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<p>WELCOME TO THE ROCKET LEAGUE TEAM.</p>",
+          "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One, macOS, Linux, and Nintendo Switch being released later on.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page5.html#features3-1b\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
-          "_anchor": "header6-13"
+          "_anchor": "header6-1a"
         },
         {
           "_params": {
@@ -1498,7 +1466,6 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-12",
           "_styles": {
             "H4": {
               "color": "#ffffff"
@@ -1509,98 +1476,8 @@
             "P": {
               "color": "#ffffff"
             }
-          }
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
-            },
-            "A": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-10"
+          "_anchor": "features3-1b"
         },
         {
           "_params": {
@@ -1635,9 +1512,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1661,11 +1539,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1698,7 +1576,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-11",
+          "_anchor": "contacts3-19",
           "_styles": {
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -1708,11 +1586,11 @@
         }
       ]
     },
-    "page4.html": {
+    "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2350,9 +2228,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2376,11 +2255,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2423,104 +2302,13 @@
         }
       ]
     },
-    "page5.html": {
+    "Lifted Gaming - Z1 BATTLE ROYAL TEAM.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Lifted Gaming - ROCKET LEAGUE TEAM",
-        "order": 2
+        "meta_descr": "",
+        "title": "Lifted Gaming - Z1 BATTLE ROYAL TEAM",
+        "order": 5
       },
       "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
-            },
-            "A": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-18"
-        },
         {
           "_inherit": "header2",
           "_styles": {
@@ -2562,7 +2350,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=BBAlsertef4",
+              "src": "https://www.youtube.com/watch?v=MMUJqRnnqng",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2573,14 +2361,14 @@
               "size": 250
             }
           },
-          "title": "<p>WELCOME TO THE ROCKET LEAGUE TEAM.</p>",
-          "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One, macOS, Linux, and Nintendo Switch being released later on.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page5.html#features3-1b\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "<p>WELCOME TO THE&nbsp;<span style=\"font-size: 3rem;\">Z1 BATTLE ROYAL TEAM.</span></p>",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page3.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
-          "_anchor": "header6-1a"
+          "_anchor": "header6-13"
         },
         {
           "_params": {
@@ -2693,6 +2481,7 @@
             "Theme"
           ],
           "_name": "features3",
+          "_anchor": "features3-12",
           "_styles": {
             "H4": {
               "color": "#ffffff"
@@ -2703,8 +2492,98 @@
             "P": {
               "color": "#ffffff"
             }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
-          "_anchor": "features3-1b"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10"
         },
         {
           "_params": {
@@ -2739,9 +2618,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2765,11 +2645,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2802,7 +2682,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-19",
+          "_anchor": "contacts3-11",
           "_styles": {
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -2812,11 +2692,11 @@
         }
       ]
     },
-    "page6.html": {
+    "Lifted Gaming - Upcoming Events.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Lifted Gaming - Sponsors",
-        "order": 1
+        "meta_descr": "",
+        "title": "Lifted Gaming - Upcoming Events",
+        "order": 6
       },
       "components": [
         {
@@ -2908,49 +2788,80 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1c"
+          "_anchor": "ext_menu-s"
         },
         {
+          "_inherit": "header2",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
             ".mbr-section-title": {
               "color": "#ffffff"
             },
-            ".mbr-section-subtitle": {
+            ".mbr-section-text": {
               "color": "#ffffff"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "6",
-            "paddingBottom": "1",
-            "bgColor": "#000000"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "70",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/32412-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
           },
-          "title": "OUR SPONSORS",
-          "meta": "Founded in 2018",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=UjTmLEizPBw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "UPCOMING EVENTS.",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page2.html#features3-u\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1f"
+          "_name": "header6",
+          "_anchor": "header6-w"
         },
         {
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#000000",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2961,46 +2872,50 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-11-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-12-382x464.png",
+              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media5": {
@@ -3019,16 +2934,16 @@
               "active": true
             }
           },
-          "title1": "SPONSOR",
+          "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "SPONSOR",
+          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "SPONSOR",
+          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "SPONSOR",
+          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -3037,7 +2952,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://maverickbyloganpaul.com/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -3047,18 +2962,18 @@
             "Theme"
           ],
           "_name": "features3",
+          "_anchor": "features3-u",
           "_styles": {
             "H4": {
               "color": "#ffffff"
             },
-            "H5": {
-              "color": "#ffffff"
-            },
             "P": {
               "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
             }
-          },
-          "_anchor": "features3-1e"
+          }
         },
         {
           "_params": {
@@ -3093,9 +3008,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "star",
               "size": 0,
-              "family": "et-line"
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -3119,11 +3035,11 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
           "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "+1 (0) 000 0000 001&nbsp;",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -3156,7 +3072,396 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-1d",
+          "_anchor": "contacts3-t",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        }
+      ]
+    },
+    "Lifted Gaming - Merch.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Lifted Gaming - Merch",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-a\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">SPONSORS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-o"
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-text": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "70",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-recovered-850x576.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<br>THE MERCH",
+          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY THE MERCH</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-q"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10282475-web1-esports-032218cs-14-1050x733.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "COMING SOON",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "COMING SOON",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "COMING SOON",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "COMING SOON",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-r",
+          "_styles": {
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-265x211.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "star",
+              "size": 0,
+              "family": "MobiriseIcons",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "title1": "Categories",
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "addisonbirt@hotmail.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-p",
           "_styles": {
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
