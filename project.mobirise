@@ -41,7 +41,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Lifted Gaming",
+        "title": "LIFTED GAMING - Professional Esports Team",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -112,7 +112,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -498,7 +498,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "support@liftedgaming.com",
@@ -544,7 +544,7 @@
     "Lifted Gaming - Sponsor Us.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - Sponsor Us",
+        "title": "LIFTED GAMING - Sponsor Us",
         "order": 1
       },
       "components": [
@@ -612,7 +612,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -655,11 +655,11 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "SPONSER SHIP FOURM",
+          "title": "SPONSORSHIPS FOURM",
           "subtitle": "Want to become a sponser for our team just drop us an email bellow.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "support@liftedgaming.com",
+            "action": "sponsorships@liftedgaming.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -760,7 +760,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -806,7 +806,7 @@
     "Lifted Gaming - Sponsors.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - Sponsors",
+        "title": "LIFTED GAMING - Sponsors",
         "order": 2
       },
       "components": [
@@ -874,7 +874,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -1153,7 +1153,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1199,7 +1199,7 @@
     "Lifted Gaming - ROCKET LEAGUE TEAM.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - ROCKET LEAGUE TEAM",
+        "title": "LIFTED GAMING - ROCKET LEAGUE TEAM",
         "order": 3
       },
       "components": [
@@ -1267,7 +1267,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -1543,7 +1543,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -1589,7 +1589,7 @@
     "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM",
+        "title": "LIFTED GAMING - FORTNITE BATTLE ROYAL TEAM",
         "order": 4
       },
       "components": [
@@ -1657,7 +1657,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -2259,7 +2259,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2305,7 +2305,7 @@
     "Lifted Gaming - Z1 BATTLE ROYAL TEAM.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - Z1 BATTLE ROYAL TEAM",
+        "title": "LIFTED GAMING - Z1 BATTLE ROYAL TEAM",
         "order": 5
       },
       "components": [
@@ -2558,7 +2558,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -2649,7 +2649,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -2695,7 +2695,7 @@
     "Lifted Gaming - Upcoming Events.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - Upcoming Events",
+        "title": "LIFTED GAMING - Upcoming Events",
         "order": 6
       },
       "components": [
@@ -2763,7 +2763,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -3039,7 +3039,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
@@ -3085,7 +3085,7 @@
     "Lifted Gaming - Merch.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Lifted Gaming - Merch",
+        "title": "LIFTED GAMING - Merch",
         "order": 7
       },
       "components": [
@@ -3153,7 +3153,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ff0000!important"
+              "color": "#000000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -3428,7 +3428,7 @@
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
           "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@liftedgaming.com<br><br><strong><br></strong><br><strong>Address</strong><br>London United Kingdom<br>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: support@liftedgaming.com<br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
             "action": "addisonbirt@hotmail.co.uk",
