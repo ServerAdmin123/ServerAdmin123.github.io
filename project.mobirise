@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -112,7 +112,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -150,17 +150,17 @@
             "timeout": "10",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/gg2-1-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WELCOME",
+                "title": "<br><br>WELCOME",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "This is an up and coming team for all of the most popular games out there today including, h1z1, fortnite, rocket league. And many more to come in the future if you want to get in touch with us just go to the bottom of the page where our email adreese are and also take a look at our team while you are here.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">SPONSORS</a>",
                 "overlayOpacity": "0"
               },
@@ -174,8 +174,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "MEET THE TEAM",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "contentAlign": "center",
+                "text": "Meet the team just scroll down the page to see all of the games that our team plays or you can go to team and select the game on the teams tab and take a look at our line up.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
               },
               {
@@ -188,8 +188,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "<br>GET THE MERCH",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "contentAlign": "center",
+                "text": "Want to help and support our team get your self some sick merch buy clicking the merch button bellow, We apricate every one that supports the team players.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MERCH STORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREAMERS</a>"
               }
             ]
@@ -205,10 +205,10 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "16px",
-              "text-align": "left"
+              "text-align": "center"
             },
             "H2": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -223,13 +223,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-3-1920x272.png",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#000000",
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.5"
           },
           "_tags": [
             "Theme"
@@ -270,8 +270,8 @@
             "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
             "_customCSS": "",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dim-1920x1080.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/3123-4-1920x1080.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#000000"
           },
@@ -874,7 +874,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -1267,7 +1267,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -1316,7 +1316,7 @@
             "showArrow": true,
             "imageSize": "65",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-rl-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1362,7 +1362,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
@@ -1657,7 +1657,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -1706,7 +1706,7 @@
             "showArrow": true,
             "imageSize": "65",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-fortnite-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -1737,7 +1737,7 @@
             }
           },
           "title": "<p>WELCOME TO THE FORTNITE BATTLE ROYAL TEAM.</p>",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "Fortnite is a co-op sandbox survival game developed by Epic Games and People Can Fly, with Epic Games also publishing the game. The game was released as a paid early access title for Microsoft Windows, macOS, PlayStation 4 and Xbox One on July 25, 2017. Fortnite's \"Battle Royale\" mode follows similar gameplay mechanics as other battle royale games, particularly PlayerUnknown's Battlegrounds.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page4.html#features3-17\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2329,9 +2329,9 @@
             "showButtons": true,
             "inverse": true,
             "showArrow": true,
-            "imageSize": "65",
+            "imageSize": "67",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/324-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/3123-2-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -2362,7 +2362,7 @@
             }
           },
           "title": "<p>WELCOME TO THE&nbsp;<span style=\"font-size: 3rem;\">Z1 BATTLE ROYAL TEAM.</span></p>",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "text": "H1Z1 is a battle royale game in which up to 150 players compete against each other in a last man standing deathmatch. Players can choose to play solo, in a duo, or in groups of five, with the goal of being the final person or final team remaining.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page3.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
@@ -2377,7 +2377,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": false,
@@ -2558,7 +2558,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -2763,7 +2763,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",
@@ -3153,7 +3153,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#ff0000!important"
             },
             "A": {
               "font-family": "'Montserrat', sans-serif",

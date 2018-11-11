@@ -470,7 +470,7 @@ h6,
 }
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-0 A {
   font-family: 'Montserrat', sans-serif;
@@ -478,10 +478,10 @@ h6,
 #slider-1 P {
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
-  text-align: left;
+  text-align: center;
 }
 #slider-1 H2 {
-  text-align: left;
+  text-align: center;
 }
 #social-buttons4-1m .mbr-section-title,
 #social-buttons4-1m .btn-social {
@@ -652,7 +652,7 @@ h6,
 }
 #ext_menu-1c .link[aria-expanded="true"],
 #ext_menu-1c .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-1c A {
   font-family: 'Montserrat', sans-serif;
@@ -746,7 +746,7 @@ h6,
 }
 #ext_menu-18 .link[aria-expanded="true"],
 #ext_menu-18 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-18 A {
   font-family: 'Montserrat', sans-serif;
@@ -834,7 +834,7 @@ h6,
 }
 #ext_menu-14 .link[aria-expanded="true"],
 #ext_menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-14 A {
   font-family: 'Montserrat', sans-serif;
@@ -989,7 +989,7 @@ h6,
 }
 #ext_menu-10 .link[aria-expanded="true"],
 #ext_menu-10 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-10 A {
   font-family: 'Montserrat', sans-serif;
@@ -1058,7 +1058,7 @@ h6,
 }
 #ext_menu-s .link[aria-expanded="true"],
 #ext_menu-s .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-s A {
   font-family: 'Montserrat', sans-serif;
@@ -1142,7 +1142,7 @@ h6,
 }
 #ext_menu-o .link[aria-expanded="true"],
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #ff0000!important;
 }
 #ext_menu-o A {
   font-family: 'Montserrat', sans-serif;
