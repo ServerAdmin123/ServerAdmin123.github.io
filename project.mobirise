@@ -24,13 +24,15 @@
         "#383838",
         "#2e2e2e",
         "#ff0000",
-        "#8c8c8c"
+        "#8c8c8c",
+        "#222222",
+        "#8e0808"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 88,
+    "uniqCompNum": 122,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -63,7 +65,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -141,8 +143,8 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColor": "#ff0000"
           },
           "text": "",
@@ -150,7 +152,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1u"
+          "_anchor": "content1-2k"
         },
         {
           "_params": {
@@ -545,7 +547,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - Sponsor Us",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -563,7 +565,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -739,7 +741,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1y"
+          "_anchor": "content1-2m"
         },
         {
           "_params": {
@@ -852,7 +854,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - Sponsors",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -870,7 +872,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1136,7 +1138,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -1145,7 +1147,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-28"
+          "_anchor": "content1-2n"
         },
         {
           "_params": {
@@ -1258,7 +1260,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - ROCKET LEAGUE TEAM",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -1276,7 +1278,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1539,7 +1541,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -1548,7 +1550,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-29"
+          "_anchor": "content1-2o"
         },
         {
           "_params": {
@@ -1661,7 +1663,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - FORTNITE BATTLE ROYAL TEAM",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1679,7 +1681,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2268,7 +2270,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -2277,7 +2279,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2c"
+          "_anchor": "content1-2p"
         },
         {
           "_params": {
@@ -2390,7 +2392,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - Z1 BATTLE ROYAL TEAM",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -2580,7 +2582,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -2589,7 +2591,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2d"
+          "_anchor": "content1-2q"
         },
         {
           "_inherit": "menu",
@@ -2606,7 +2608,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2793,7 +2795,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - Upcoming Events",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -2811,7 +2813,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3074,7 +3076,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -3083,7 +3085,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2e"
+          "_anchor": "content1-2r"
         },
         {
           "_params": {
@@ -3196,7 +3198,7 @@
       "settings": {
         "meta_descr": "",
         "title": "LIFTED GAMING - Merch",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -3214,7 +3216,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3476,7 +3478,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -3485,7 +3487,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2f"
+          "_anchor": "content1-2s"
         },
         {
           "_params": {
@@ -3598,7 +3600,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "LIFTED GAMING - About us",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -3616,7 +3618,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3740,7 +3742,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
@@ -3749,7 +3751,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-26"
+          "_anchor": "content1-2l"
         },
         {
           "_params": {
@@ -3861,22 +3863,35 @@
     "page9.html": {
       "settings": {
         "meta_descr": "Web Page Builder Description",
-        "title": "Streamers",
-        "order": 1
+        "title": "Z1 BATTLE ROYAL STREAMERS",
+        "order": 3
       },
       "components": [
         {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
           },
-          "text": "",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "title": "H1Z1 STREAMERS",
+          "meta": "Here is all of our twitch streamers",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-25"
+          "_name": "header3",
+          "_anchor": "header3-24"
         },
         {
           "_inherit": "menu",
@@ -3893,7 +3908,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3970,30 +3985,160 @@
           "_anchor": "ext_menu-21"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+          "_params": {
+            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+            "_customCSS": "",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-1920x1080.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#8e0808"
+          },
+          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-2t"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
           },
-          "title": "H1Z1 STREAMERS",
-          "meta": "Here is all of our twitch streamers",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PLAYER",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
+          "title2": "PLAYER",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
+          "title3": "PLAYER",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
+          "title4": "PLAYER",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-24"
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-30"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ff0000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-31"
         },
         {
           "_params": {
@@ -4099,6 +4244,780 @@
             }
           },
           "_anchor": "contacts3-22"
+        }
+      ]
+    },
+    "page10.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "ROCKET LEAGUE STREAMERS",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-32"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "title": "ROCKET LEAGUE STREAMERS",
+          "meta": "Here is all of our twitch streamers",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-34"
+        },
+        {
+          "_params": {
+            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+            "_customCSS": "",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/23-1920x1080.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#8e0808"
+          },
+          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-35"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PLAYER",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
+          "title2": "PLAYER",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
+          "title3": "PLAYER",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
+          "title4": "PLAYER",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-36"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ff0000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-37"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-265x211.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "title1": "Categories",
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@liftedgaming.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-33"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "FORTNITE BATTLE ROYAL STREAMERS",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">STREAMERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"true\">Z1 BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">FORTNITE BATTLE ROYAL STREAMERS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM STREAMERS</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-38"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "title": "FORTNITE BATTLE ROYAL STREAMERS",
+          "meta": "Here is all of our twitch streamers",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3a"
+        },
+        {
+          "_params": {
+            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+            "_customCSS": "",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/231-1920x1080.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#8e0808"
+          },
+          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+          "_customCSS": "p{color:white;}",
+          "alias": "deltapieditor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "deltapieditor",
+          "_anchor": "deltapieditor-3b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "PLAYER",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
+          "title2": "PLAYER",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
+          "title3": "PLAYER",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
+          "title4": "PLAYER",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-3c"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#ff0000"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3d"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-265x211.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "title1": "Categories",
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@liftedgaming.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-39"
         }
       ]
     }
