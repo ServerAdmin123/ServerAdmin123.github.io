@@ -576,7 +576,13 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #form1-1l .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-1l .mbr-section-title {
+  color: #ffffff;
+}
+#form1-1l SMALL {
+  color: #ffffff;
 }
 #contacts3-1k .btn {
   font-family: 'Montserrat', sans-serif;
@@ -1233,10 +1239,6 @@ h6,
 }
 #content7-1m P {
   color: #ffffff;
-}
-#header3-1s .mbr-section-title,
-#header3-1s .mbr-section-subtitle {
-  text-align: center;
 }
 #contacts3-1l .btn {
   font-family: 'Montserrat', sans-serif;
