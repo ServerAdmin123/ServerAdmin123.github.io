@@ -142,7 +142,7 @@
         {
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#ff0000"
           },
           "text": "",
@@ -423,7 +423,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
