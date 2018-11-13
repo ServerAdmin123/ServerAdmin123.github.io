@@ -141,7 +141,7 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgColor": "#ff0000"
           },
