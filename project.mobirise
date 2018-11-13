@@ -246,7 +246,7 @@
             "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
             "_customCSS": "",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/banner-7-2000x1125.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/rtrdtdft-2000x1125.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#000000"
@@ -298,7 +298,7 @@
             "columns": 4,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/sadas-2000x1125.png",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -307,7 +307,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media1": {
             "image": {
@@ -409,19 +409,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-27"
         },
         {
           "_params": {
@@ -643,28 +630,15 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1x"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sadas-2000x1125.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
@@ -716,19 +690,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2m"
         },
         {
           "_params": {
@@ -972,8 +933,8 @@
             "paddingBottom": "1",
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ghjjjjjjjjjgjh-2000x1125.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
@@ -982,7 +943,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media1": {
             "image": {
@@ -1101,10 +1062,10 @@
             "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1122,19 +1083,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-1i"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2n"
         },
         {
           "_params": {
@@ -2894,8 +2842,8 @@
             "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/32412-1920x1080.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
@@ -2904,7 +2852,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -2944,8 +2892,8 @@
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -2954,7 +2902,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.3"
           },
           "media1": {
             "image": {
@@ -3060,19 +3008,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2r"
         },
         {
           "_params": {
@@ -3297,8 +3232,8 @@
             "showArrow": true,
             "imageSize": "70",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
@@ -3307,12 +3242,12 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-2-recovered-850x576.png",
+              "src": "@PROJECT_PATH@/assets/images/ggggggggggggggggggggggggggggggggggggggg-1-1227x723.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3350,8 +3285,8 @@
             "paddingBottom": 2,
             "columns": 4,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/10282475-web1-esports-032218cs-14-1050x733.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -3360,11 +3295,11 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.3"
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3375,7 +3310,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3386,7 +3321,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdf-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3397,7 +3332,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fsdfdfdsf-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3462,19 +3397,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2s"
         },
         {
           "_params": {
@@ -3976,7 +3898,7 @@
             "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
             "_customCSS": "",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/2-19-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#8e0808"
