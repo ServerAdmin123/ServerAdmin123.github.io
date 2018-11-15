@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 140,
+    "uniqCompNum": 142,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -153,7 +153,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/gg-3-2000x1125.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -167,22 +167,22 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/32412-1920x1080.png",
+                "image": "@PROJECT_PATH@/assets/images/gfdggdggfg-2000x1125.png",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "MEET THE TEAM",
+                "title": "<br><br><br><br>MEET THE TEAM",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">Meet the team just scroll down the page to see all of the games that our team plays or you can go to team and select the game on the teams tab and take a look at our line up.</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fddgfgfgddddddddddddddddddddd-1-2000x1125.png",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3622,32 +3622,12 @@
             "bgColor": "#000000"
           },
           "title": "ABOUT US",
-          "meta": "By John Smith posted July 20, 2016",
+          "meta": "Here is a short summary on what we are about.",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_anchor": "header3-1o"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgColor": "#000000"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-1m",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_params": {
@@ -3661,6 +3641,24 @@
           ],
           "_name": "content1",
           "_anchor": "content1-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p>Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.</p><p><br></p><p>\n</p><p>Lifted Gaming is more than just a esports team, it is also a media enterprise. As you already know we support content creators across all platforms through our influencer management team. We do this by helping with channel growth, sponsorships, GFX (graphics), collaborations with other creators and much more.\n</p><p>With plans of big investments into our esports teams and facilities, we are trying to solidify our name as one of the biggest and best organisations across all of the esports scene.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3x",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
