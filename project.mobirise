@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-04_1310",
+    "name": "LIFTED GAMING - Professional Esports Team",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -32,19 +32,21 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 142,
+    "uniqCompNum": 130,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "snow": ""
+    "snow": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "LIFTED GAMING - Professional Esports Team",
-        "meta_descr": "",
+        "meta_descr": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -65,7 +67,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -124,12 +126,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -163,7 +164,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">This is an up and coming team for all of the most popular games out there today including, h1z1, fortnite, rocket league. And many more to come in the future if you want to get in touch with us just go to the bottom of the page where our email adreese are and also take a look at our team while you are here.</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">SPONSORS</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">MORE ABOUT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Lifted Gaming - Sponsors.html\" data-toolbar=\"-mbrBtnMove\">SPONSORS</a>",
                 "overlayOpacity": "0.3"
               },
               {
@@ -178,10 +179,10 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">Meet the team just scroll down the page to see all of the games that our team plays or you can go to team and select the game on the teams tab and take a look at our line up.</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#features3-a\" data-toolbar=\"-mbrBtnMove\">THE TEAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Lifted Gaming - Upcoming Events.html\" data-toolbar=\"-mbrBtnMove\">UPCOMING EVENTS</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/fddgfgfgddddddddddddddddddddd-1-2000x1125.png",
+                "image": "@PROJECT_PATH@/assets/images/pbngds-2000x1125.png",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -192,7 +193,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">Want to help and support our team get your self some sick merch buy clicking the merch button bellow, We apricate every one that supports the team players.</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">MERCH STORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">STREAMERS</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"Lifted Gaming - Merch.html\" data-toolbar=\"-mbrBtnMove\">MERCH STORE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">STREAMERS</a>"
               }
             ]
           },
@@ -237,13 +238,13 @@
             "Theme"
           ],
           "text": "CHECK OUT OUR SOCIALS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"page13.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"page13.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"page13.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"page13.html\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-1m"
         },
         {
           "_params": {
-            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=liftedgamingtv\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/liftedgamingtv/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
             "_customCSS": "",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/rtrdtdft-2000x1125.png",
@@ -251,7 +252,7 @@
             "bgColorRadio": false,
             "bgColor": "#000000"
           },
-          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=liftedgamingtv\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/liftedgamingtv/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
           "_customCSS": "",
           "alias": "deltapieditor",
           "_tags": [
@@ -387,10 +388,10 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE INFOMATION</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page13.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -469,11 +470,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -520,8 +521,8 @@
     "Lifted Gaming - Sponsor Us.html": {
       "settings": {
         "meta_descr": "",
-        "title": "LIFTED GAMING - Sponsor Us",
-        "order": 5
+        "title": "LIFTED GAMING - Become a partner",
+        "order": 6
       },
       "components": [
         {
@@ -539,7 +540,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -598,7 +599,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -644,8 +645,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "SPONSORSHIPS FOURM",
-          "subtitle": "Want to become a sponser for our team just drop us an email bellow.",
+          "title": "PARTNERS FOURM",
+          "subtitle": "Want to become a partner for our team just drop us an email bellow.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "sponsorships@liftedgaming.com",
@@ -750,11 +751,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -800,9 +801,9 @@
     },
     "Lifted Gaming - Sponsors.html": {
       "settings": {
-        "meta_descr": "",
-        "title": "LIFTED GAMING - Sponsors",
-        "order": 6
+        "meta_descr": "This is our partners page.",
+        "title": "LIFTED GAMING - Partners",
+        "order": 7
       },
       "components": [
         {
@@ -820,7 +821,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -879,7 +880,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -932,10 +933,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ghjjjjjjjjjgjh-2000x1125.png",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1006,17 +1007,17 @@
             }
           },
           "title1": "SPONSOR",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "SPONSOR",
+          "caption1": "SPONSOR",
           "title2": "SPONSOR",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "SPONSOR",
+          "caption2": "SPONSOR",
           "title3": "SPONSOR",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "SPONSOR",
+          "caption3": "SPONSOR",
           "title4": "SPONSOR",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "SPONSOR",
+          "caption4": "SPONSOR",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -1077,7 +1078,7 @@
           },
           "title": "Want to help us grow? Sponsor us!",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Lifted Gaming - Sponsor Us.html\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
           "_tags": [
             "Theme"
           ],
@@ -1143,15 +1144,15 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
-            "action": "addisonbirt@hotmail.co.uk",
+            "action": "support@liftedgaming.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1193,9 +1194,9 @@
     },
     "Lifted Gaming - ROCKET LEAGUE TEAM.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "WELCOME TO THE ROCKET LEAGUE TEAM.",
         "title": "LIFTED GAMING - Rocket league team",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1213,7 +1214,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1272,7 +1273,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1343,7 +1344,7 @@
           },
           "title": "<p>WELCOME TO THE ROCKET LEAGUE TEAM.</p>",
           "text": "Rocket League is a vehicular soccer video game developed and published by Psyonix. The game was first released for Microsoft Windows and PlayStation 4 in July 2015, with ports for Xbox One, macOS, Linux, and Nintendo Switch being released later on.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page5.html#features3-1b\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html#features3-1b\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1360,10 +1361,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sadas-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1476,19 +1477,6 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2o"
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1546,11 +1534,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -1596,9 +1584,9 @@
     },
     "Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "WELCOME TO THE FORTNITE BATTLE ROYAL TEAM.",
         "title": "LIFTED GAMING - Fortnite battle royal team",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -1616,7 +1604,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1675,7 +1663,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1733,7 +1721,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=VeHi_-DtD3E",
+              "src": "https://www.youtube.com/watch?v=-X7bkHS_ET4",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1746,7 +1734,7 @@
           },
           "title": "<p>WELCOME TO THE FORTNITE BATTLE ROYAL TEAM.</p>",
           "text": "Fortnite is a co-op sandbox survival game developed by Epic Games and People Can Fly, with Epic Games also publishing the game. The game was released as a paid early access title for Microsoft Windows, macOS, PlayStation 4 and Xbox One on July 25, 2017. Fortnite's \"Battle Royale\" mode follows similar gameplay mechanics as other battle royale games, particularly PlayerUnknown's Battlegrounds.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page4.html#features3-17\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html#features3-1h\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1771,157 +1759,7 @@
             "paddingBottom": "2",
             "bgColor": "#000000"
           },
-          "title": "THE PC TEAM",
-          "meta": "Founded in 2018",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1g"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "PLAYER",
-          "subtitle1": "COMING SOON",
-          "caption1": "COMING SOON",
-          "title2": "PLAYER",
-          "subtitle2": "COMING SOON",
-          "caption2": "COMING SOON",
-          "title3": "PLAYER",
-          "subtitle3": "COMING SOON",
-          "caption3": "COMING SOON",
-          "title4": "PLAYER",
-          "subtitle4": "COMING SOON",
-          "caption4": "COMING SOON",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features3-17"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "title": "THE PS4 TEAM",
+          "title": "THE FORTNITE TEAM",
           "meta": "Founded in 2018",
           "_tags": [
             "Theme"
@@ -1936,13 +1774,13 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
+            "columns": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -1954,13 +1792,14 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-3-288x288.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/channel/UC8-cb1z23n8Bw24c7raOWhg",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
@@ -1998,23 +1837,29 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
-          "title1": "PLAYER",
-          "subtitle1": "COMING SOON",
-          "caption1": "COMING SOON",
+          "title1": "FRUITY",
+          "subtitle1": "PS4 TEAM PLAYER",
+          "caption1": "Hi I'm Harrison, better known as Fruity and I love video games. I love sharing my experiences with you guys so make sure to stick around and join the #FruityMafia",
           "title2": "PLAYER",
           "subtitle2": "COMING SOON",
           "caption2": "COMING SOON",
@@ -2024,12 +1869,12 @@
           "title4": "PLAYER",
           "subtitle4": "COMING SOON",
           "caption4": "COMING SOON",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title5": "PLAYER",
+          "subtitle5": "COMING SOON",
+          "caption5": "COMING SOON",
+          "title6": "PLAYER",
+          "subtitle6": "COMING SOON",
+          "caption6": "COMING SOON",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2052,169 +1897,6 @@
             }
           },
           "_anchor": "features3-1h"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#000000"
-          },
-          "title": "THE XBOX TEAM",
-          "meta": "Founded in 2018",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1k"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "PLAYER",
-          "subtitle1": "COMING SOON",
-          "caption1": "COMING SOON",
-          "title2": "PLAYER",
-          "subtitle2": "COMING SOON",
-          "caption2": "COMING SOON",
-          "title3": "PLAYER",
-          "subtitle3": "COMING SOON",
-          "caption3": "COMING SOON",
-          "title4": "PLAYER",
-          "subtitle4": "COMING SOON",
-          "caption4": "COMING SOON",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "H5": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features3-1i"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2p"
         },
         {
           "_params": {
@@ -2275,11 +1957,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -2325,9 +2007,9 @@
     },
     "Lifted Gaming - Z1 BATTLE ROYAL TEAM.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "WELCOME TO THE Z1 BATTLE ROYAL TEAM.",
         "title": "LIFTED GAMING - Z1 battle royal team",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2384,7 +2066,7 @@
           },
           "title": "<p>WELCOME TO THE&nbsp;<span style=\"font-size: 3rem;\">Z1 BATTLE ROYAL TEAM.</span></p>",
           "text": "H1Z1 is a battle royale game in which up to 150 players compete against each other in a last man standing deathmatch. Players can choose to play solo, in a duo, or in groups of five, with the goal of being the final person or final team remaining.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page3.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html#features3-12\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2401,10 +2083,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sadas-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2516,19 +2198,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2q"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -2543,7 +2212,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2602,7 +2271,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2678,11 +2347,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -2728,9 +2397,9 @@
     },
     "Lifted Gaming - Upcoming Events.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "The upcoming events for this year.",
         "title": "LIFTED GAMING - Upcoming Events",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2748,7 +2417,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2807,7 +2476,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2861,7 +2530,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=UjTmLEizPBw",
+              "src": "https://youtu.be/HGXMEu0EDG0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2872,9 +2541,9 @@
               "size": 250
             }
           },
-          "title": "UPCOMING EVENTS.",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"page2.html#features3-u\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "title": "Experience Insomnia",
+          "text": "Come and experience Insomnia this Summer. We have everything from YouTubers, BYOC Hall, Live stage shows, to a huge LAN Hall and Esports stage where you can take part in tournaments and win cash prizes. ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Lifted Gaming - Upcoming Events.html#features3-u\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -2888,8 +2557,8 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
@@ -2906,11 +2575,11 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/capture-600x317.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "https://www.youtube.com/watch?v=PGVojj1Xkew",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -2918,11 +2587,11 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/capture-1-600x340.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "https://youtu.be/88hj17LFl8k",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -2930,26 +2599,26 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "Lifted Gaming - Upcoming Events.html#features3-u",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maxresdefault-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-8-382x464.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://www.youtube.com/watch?v=vTEaKn_sZ0o",
+              "link": "Lifted Gaming - Upcoming Events.html#features3-u",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -2968,18 +2637,18 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
+          "title1": "INSOMNIA 64",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "caption1": "Come and experience Insomnia this Summer. We have everything from YouTubers, BYOC Hall, Live stage shows, to a huge LAN Hall and Esports stage where you can take part in tournaments and win cash prizes.",
+          "title2": "INTRODUCING RLCS SEASON 5\n",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "caption2": "At Psyonix, we are always looking at the entire Rocket League Esports ecosystem and what is best for our players, fans and community. We're pleased to announce that for the first time, the RLCS format will remain unchanged from the previous season! That means more of the same great format in both the RLCS and the Rival Series",
+          "title3": "COMING SOON",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
+          "caption3": "COMING SOON",
+          "title4": "COMING SOON",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "COMING SOON",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -3068,11 +2737,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -3118,9 +2787,9 @@
     },
     "Lifted Gaming - Merch.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Want to help and support our team get your self some sick merch buy clicking the merch button bellow, We apricate every one that supports the team players.",
         "title": "LIFTED GAMING - Merch",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3138,7 +2807,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3197,7 +2866,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3247,7 +2916,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ggggggggggggggggggggggggggggggggggggggg-1-1227x723.png",
+              "src": "@PROJECT_PATH@/assets/images/ggggggggggggggggggggggggassssssssssssggggggggggggggg-copy-1227x723.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -3266,8 +2935,8 @@
             }
           },
           "title": "<br>THE MERCH",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BUY THE MERCH</a>",
+          "text": "Want to help and support our team get your self some sick merch buy clicking the merch button bellow, We apricate every one that supports the team players.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"Lifted Gaming - Merch.html#features3-r\" data-toolbar=\"-mbrBtnMove\">BUY THE MERCH</a>",
           "_tags": [
             "Theme"
           ],
@@ -3299,7 +2968,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
+              "src": "@PROJECT_PATH@/assets/images/gfgggggggggggggggg-1-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3310,7 +2979,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
+              "src": "@PROJECT_PATH@/assets/images/gfgggggggggggggggg-1-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3321,7 +2990,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
+              "src": "@PROJECT_PATH@/assets/images/gfgggggggggggggggg-1-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3332,7 +3001,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsffffffffffffffffffffffffffffffff-561x723.png",
+              "src": "@PROJECT_PATH@/assets/images/gfgggggggggggggggg-1-561x723.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3358,27 +3027,27 @@
             }
           },
           "title1": "COMING SOON",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "COMING SOON",
+          "caption1": "COMING SOON",
           "title2": "COMING SOON",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "COMING SOON",
+          "caption2": "COMING SOON",
           "title3": "COMING SOON",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "COMING SOON",
+          "caption3": "COMING SOON",
           "title4": "COMING SOON",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "COMING SOON",
+          "caption4": "COMING SOON",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Lifted Gaming - Merch.html#features3-r\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Lifted Gaming - Merch.html#features3-r\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Lifted Gaming - Merch.html#features3-r\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Lifted Gaming - Merch.html#features3-r\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
@@ -3457,11 +3126,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -3507,9 +3176,9 @@
     },
     "page8.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.\nLifted Gaming is more than just a esports team, it is also a media enterprise. As you already know we support content creators across all platforms through our influencer management team. We do this by helping with channel growth, sponsorships, GFX (graphics), collaborations with other creators and much more.\nWith plans of big investments into our esports teams and facilities, we are trying to solidify our name as one of the biggest and best organisations across all of the esports scene.",
         "title": "LIFTED GAMING - About us",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3527,7 +3196,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3586,7 +3255,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3630,35 +3299,38 @@
           "_anchor": "header3-1o"
         },
         {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2l"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000000"
-          },
-          "text": "<p>Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.</p><p><br></p><p>\n</p><p>Lifted Gaming is more than just a esports team, it is also a media enterprise. As you already know we support content creators across all platforms through our influencer management team. We do this by helping with channel growth, sponsorships, GFX (graphics), collaborations with other creators and much more.\n</p><p>With plans of big investments into our esports teams and facilities, we are trying to solidify our name as one of the biggest and best organisations across all of the esports scene.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3x",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
-          }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.</p><p>Lifted Gaming is more than just a esports team, it is also a media enterprise. As you already know we support content creators across all platforms through our influencer management team. We do this by helping with channel growth, sponsorships, GFX (graphics), collaborations with other creators and much more.\n</p><p>With plans of big investments into our esports teams and facilities, we are trying to solidify our name as one of the biggest and best organisations across all of the esports scene.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3m"
         },
         {
           "_params": {
@@ -3719,11 +3391,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -3769,9 +3441,9 @@
     },
     "page11.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "This page is where you can find all of our twitch streamers channels and more.",
         "title": "LIFTED GAMING - Streamers",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3789,7 +3461,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3848,7 +3520,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3893,7 +3565,7 @@
         },
         {
           "_params": {
-            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+            "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=liftedgamingtv\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/liftedgamingtv/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
             "_customCSS": "",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/uyiuiuiu-2000x1125.png",
@@ -3901,7 +3573,7 @@
             "bgColorRadio": false,
             "bgColor": "#8e0808"
           },
-          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=xividium\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/xividium/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
+          "_customHTML": "<div class=\"row block\">\n\t\t\t<div class=\"tiny\"><style>     \n      .frame{\n      float:left;\n      margin:20px;\n      }\n</style>\n\n<div class=\"frame\">\n    <iframe src=\"https://player.twitch.tv/?channel=liftedgamingtv\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"345\" width=\"612\"></iframe><a href=\"https://www.twitch.tv/savetheworldprices?tt_content=text_link&amp;tt_medium=live_embed\" style=\"padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;\"></a>\n</div>\n\n<div class=\"frame\">\n    <iframe src=\"https://www.twitch.tv/embed/liftedgamingtv/chat\" frameborder=\"0\" scrolling=\"no\" height=\"345\" width=\"350\"></iframe>\n</div>\n\n</div>\n        </div>",
           "_customCSS": "p{color:white;}",
           "alias": "deltapieditor",
           "_tags": [
@@ -3920,10 +3592,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -3999,22 +3671,22 @@
               "title": ""
             }
           },
-          "title1": "PLAYER",
+          "title1": "COMING SOON",
           "subtitle1": "COMING SOON",
           "caption1": "COMING SOON",
-          "title2": "PLAYER",
+          "title2": "COMING SOON",
           "subtitle2": "COMING SOON",
           "caption2": "COMING SOON",
-          "title3": "PLAYER",
+          "title3": "COMING SOON",
           "subtitle3": "COMING SOON",
           "caption3": "COMING SOON",
-          "title4": "PLAYER",
+          "title4": "COMING SOON",
           "subtitle4": "COMING SOON",
           "caption4": "COMING SOON",
-          "title5": "PLAYER",
+          "title5": "COMING SOON",
           "subtitle5": "COMING SOON",
           "caption5": "COMING SOON",
-          "title6": "PLAYER",
+          "title6": "COMING SOON",
           "subtitle6": "COMING SOON",
           "caption6": "COMING SOON",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4039,19 +3711,6 @@
             }
           },
           "_anchor": "features3-3c"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#ff0000"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3d"
         },
         {
           "_params": {
@@ -4112,11 +3771,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -4162,9 +3821,9 @@
     },
     "page10.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "This is for all of our content creators on youtube.",
         "title": "LIFTED GAMING - Youtube Team",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4182,7 +3841,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4241,7 +3900,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4323,10 +3982,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/21444-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gggggggggggggggggggggg-1-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -4338,24 +3997,26 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-2-288x288.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/channel/UCTFi1wHONgD2pj-9PsBBIJQ",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pro-429x472.png",
+              "src": "@PROJECT_PATH@/assets/images/unnamed-3-288x288.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.youtube.com/channel/UC8-cb1z23n8Bw24c7raOWhg",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media3": {
@@ -4402,24 +4063,24 @@
               "title": ""
             }
           },
-          "title1": "PLAYER",
-          "subtitle1": "COMING SOON",
-          "caption1": "COMING SOON",
-          "title2": "PLAYER",
-          "subtitle2": "COMING SOON",
-          "caption2": "COMING SOON",
-          "title3": "PLAYER",
+          "title1": "\n<div><span style=\"font-size: 1.25rem; background-color: initial;\">PICKAPIXEL</span><br></div>",
+          "subtitle1": "Content Creator",
+          "caption1": "My name is Pixel and this is my YouTube channel!! I am crazy about GAMING! I'm really looking forward to making some of the most entertaining commentaries out there on YouTube today, I think I can do it! Care to join me? Click subscribe to be told whenever I make a new video! If you ever want to play a game with me then tweet me on Twitter @pickapixelyt! Stay awesome! #PixelArmy",
+          "title2": "FRUITY",
+          "subtitle2": "Content Creator / Streamer",
+          "caption2": "Hi I'm Harrison, better known as Fruity and I love video games. I love sharing my experiences with you guys so make sure to stick around and join the #FruityMafia",
+          "title3": "COMING SOON",
           "subtitle3": "COMING SOON",
           "caption3": "COMING SOON",
-          "title4": "PLAYER",
+          "title4": "COMING SOON",
           "subtitle4": "COMING SOON",
           "caption4": "COMING SOON",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "title5": "COMING SOON",
+          "subtitle5": "COMING SOON",
+          "caption5": "COMING SOON",
+          "title6": "COMING SOON",
+          "subtitle6": "COMING SOON",
+          "caption6": "COMING SOON",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4502,11 +4163,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -4552,9 +4213,9 @@
     },
     "page12.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "COMING SOON",
         "title": "LIFTED GAMING - Design Team",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4763,7 +4424,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\" aria-expanded=\"true\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -4822,7 +4483,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-161x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -4898,11 +4559,11 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Categories",
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
-          "text2": "<a href=\"page6.html\" class=\"text-info\">Become A Sponsor</a>",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
           "text3": "London United Kingdom",
           "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
-          "text5": "<li><a href=\"index.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"page2.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"index.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"page6.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
           "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
           "form": {
             "title": "MESSAGE",
@@ -4943,6 +4604,239 @@
             }
           },
           "_anchor": "contacts3-3s"
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "meta_descr": "COMING SOON",
+        "title": "COMING SOON",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Merch.html\">MERCH</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Upcoming Events.html\">UPCOMING EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TEAMS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - Z1 BATTLE ROYAL TEAM.html\">Z1 BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - FORTNITE BATTLE ROYAL TEAM.html\" aria-expanded=\"false\">FORTNITE BATTLE ROYAL TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Lifted Gaming - ROCKET LEAGUE TEAM.html\" aria-expanded=\"false\">ROCKET LEAGUE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\" aria-expanded=\"false\">LIFTED GAMING - YOUTUBE TEAM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\" aria-expanded=\"false\">LIFTED GAMING - DESIGN TEAM</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\">ABOUT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Lifted Gaming - Sponsors.html\">PARTNERS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">STREAMERS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ff0000!important"
+            },
+            "A": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-1-161x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3m"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/saaaaaaaaaaaaaaaaaaaaa-2000x1125.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-3o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-recovered-265x211.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "star",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "title1": "Categories",
+          "text1": "Lifted Gaming is a UK based esports organisation founded in 2018, to help support content creators/broadcasters on platforms such as Twitch and YouTube! We also have a variety of competitive teams across all the most popular games, such as Fortnite, Rocket League, H1Z1 ect.",
+          "text2": "<a href=\"Lifted Gaming - Sponsors.html#msg-box2-1i\" class=\"text-info\">Become A Sponsor</a>",
+          "text3": "London United Kingdom",
+          "text4": "<a href=\"mailto:support@mobirise.com\" class=\"text-info\">support@liftedgaming.com</a>",
+          "text5": "<li><a href=\"page11.html\" class=\"text-info\">STREAMERS</a></li><li><a href=\"Lifted Gaming - Upcoming Events.html\" class=\"text-info\">UPCOMING EVENTS</a></li><li><a href=\"index.html#features3-a\" class=\"text-info\">TEAMS</a></li><li><a href=\"page8.html\" class=\"text-info\">ABOUT</a></li><li><a href=\"Lifted Gaming - Sponsors.html\" class=\"text-info\">SPONSORS</a></li>",
+          "text6": "<strong>Contacts</strong><br>Managment Email: <a href=\"mailto:support@liftedgaming.com\" class=\"text-info\">support@liftedgaming.com</a><br><br><strong><br></strong>Sponsorships Email:&nbsp;<a href=\"mailto:Sponsorships@liftedgaming.com\" class=\"text-info\">sponsorships@liftedgaming.com</a><br><strong>Address</strong><br>London United Kingdom<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "support@liftedgaming.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_anchor": "contacts3-3n"
         }
       ]
     }

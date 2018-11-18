@@ -845,25 +845,6 @@ h6,
   color: #ffffff;
   text-align: left;
 }
-#header3-1g .mbr-section-title,
-#header3-1g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1g .mbr-section-title {
-  color: #ffffff;
-}
-#header3-1g .mbr-section-subtitle {
-  color: #ffffff;
-}
-#features3-17 H4 {
-  color: #ffffff;
-}
-#features3-17 H5 {
-  color: #ffffff;
-}
-#features3-17 P {
-  color: #ffffff;
-}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
@@ -881,25 +862,6 @@ h6,
   color: #ffffff;
 }
 #features3-1h P {
-  color: #ffffff;
-}
-#header3-1k .mbr-section-title,
-#header3-1k .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1k .mbr-section-title {
-  color: #ffffff;
-}
-#header3-1k .mbr-section-subtitle {
-  color: #ffffff;
-}
-#features3-1i H4 {
-  color: #ffffff;
-}
-#features3-1i H5 {
-  color: #ffffff;
-}
-#features3-1i P {
   color: #ffffff;
 }
 #contacts3-15 .btn {
@@ -1237,8 +1199,9 @@ h6,
 #header3-1o .mbr-section-subtitle {
   color: #ffffff;
 }
-#content1-3x P {
-  color: #ffffff;
+#msg-box8-3m .mbr-section-title,
+#msg-box8-3m p {
+  color: #fff;
 }
 #contacts3-1l .btn {
   font-family: 'Montserrat', sans-serif;
@@ -1489,5 +1452,74 @@ h6,
   font-family: 'Montserrat', sans-serif;
 }
 #contacts3-3s .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#ext_menu-3m .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3m .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3m .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3m .close-icon::before,
+#ext_menu-3m .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3m .link,
+#ext_menu-3m .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3m .link {
+  font-size: 0.95rem;
+}
+#ext_menu-3m .dropdown-item,
+#ext_menu-3m .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-3m .link:hover,
+#ext_menu-3m .dropdown-item:hover,
+#ext_menu-3m .link:focus,
+#ext_menu-3m .dropdown-item:focus {
+  color: #ff0000;
+}
+#ext_menu-3m .link[aria-expanded="true"],
+#ext_menu-3m .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3m .nav-dropdown-sm .link:focus,
+#ext_menu-3m .nav-dropdown-sm .link:hover,
+#ext_menu-3m .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3m .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-3m .navbar,
+#ext_menu-3m .nav-dropdown-sm,
+#ext_menu-3m .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3m .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-3m .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3m .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3m .bg-color.transparent.opened .link:hover,
+#ext_menu-3m .bg-color.transparent.opened .link:focus {
+  color: #ff0000;
+}
+#ext_menu-3m .link[aria-expanded="true"],
+#ext_menu-3m .dropdown-item[aria-expanded="true"] {
+  color: #ff0000!important;
+}
+#ext_menu-3m A {
+  font-family: 'Montserrat', sans-serif;
+}
+#contacts3-3n .btn {
   font-family: 'Montserrat', sans-serif;
 }
